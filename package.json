@@ -1,0 +1,12 @@
+{
+ "name": "faye-sample",
+ "version": "0.0.1",
+ "description": "Sandbox Faye server",
+ "scripts": {
+  "start": "node server.js"
+ },
+ "dependencies": {
+  "faye": "^1.2.4",
+  "faye-redis": "^0.2.0"
+ }
+}
