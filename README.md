@@ -1,4 +1,5 @@
 # Faye Server - Bayeux protocol
+(Example of Faye server basic implementation)
 
 ### Requirements
 1 redis instance running on localhost:6379
